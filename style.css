@@ -84,3 +84,12 @@ header{
     text-shadow: yellow 80%;
 
 }
+
+
+@media screen  (max-width: 768px;)
+ 
+{
+    [class*="col-"]
+    {width: 100%;
+}
+}
